@@ -1,2 +1,2 @@
 # Amazon-Clone
-This is an Amazon Clone made using HTML and CSS technologies.
+This is an shopping website clone made using HTML and CSS technologies.
